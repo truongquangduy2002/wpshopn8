@@ -1,0 +1,15 @@
+/*
+Theme Name: Shop Store Theme
+Theme URI: 
+Author: Trương Quang Duy
+Author URI: 
+Description: theme wordpress shop store
+Version: 0.2
+*/
+
+#content .item-product .thumb img {width: 250px;height: 180px;object-fit: contain;border: 1px solid #ededed;}
+#content .item-product .info-product .price del * {
+    color: #9b8e8e;
+    font-size: 12px;
+    text-decoration: line-through;
+}
